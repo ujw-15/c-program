@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{827AD108-EE8F-4639-9BCA-9DD8D3A0E621}|..\\class2th(Variable \u0026 Constant)\\class2th(Variable \u0026 Constant).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class2th(Variable \u0026 Constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F166A1A-E468-417A-AC3E-D2327853F940}|..\\class1th(compiler)\\class1th(compiler).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CF129B8-9118-4737-915A-2EC46F515ECF}|Project1.vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\Project1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CF129B8-9118-4737-915A-2EC46F515ECF}|Project1.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -24,11 +30,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class2th(Variable \u0026 Constant)\\source.c",
+              "RelativeDocumentMoniker": "..\\class2th(Variable \u0026 Constant)\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class2th(Variable \u0026 Constant)\\source.c",
+              "RelativeToolTip": "..\\class2th(Variable \u0026 Constant)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-18T13:47:54.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c",
+              "RelativeDocumentMoniker": "..\\class1th(compiler)\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c",
+              "RelativeToolTip": "..\\class1th(compiler)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-18T13:43:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\Project1\\source.c",
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\Project1\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-18T13:36:16.789Z",
               "EditorCaption": ""

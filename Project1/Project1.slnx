@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Project1.vcxproj" />
+  <Project Path="../class1th(compiler)/class1th(compiler).vcxproj" Id="5f166a1a-e468-417a-ac3e-d2327853f940" />
+  <Project Path="../class2th(Variable &amp; Constant)/class2th(Variable &amp; Constant).vcxproj" Id="827ad108-ee8f-4639-9bca-9dd8d3a0e621" />
+  <Project Path="Project1.vcxproj" Id="9cf129b8-9118-4737-915a-2ec46f515ecf" />
 </Solution>
