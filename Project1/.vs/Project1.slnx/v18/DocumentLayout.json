@@ -10,10 +10,13 @@
       "AbsoluteMoniker": "D:0:0:{A87C33F7-162E-4AD6-9E9F-158234DC963E}|..\\class3th (\uBE44\uD2B8)\\class3th (\uBE44\uD2B8).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class3th (\uBE44\uD2B8)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABC2C60-6FA1-4DC0-93BD-95E8191C5925}|..\\class4th(overflow \u0026 underflow)\\class4th(overflow \u0026 underflow).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class4th(overflow \u0026 underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8BABD01C-965E-4570-AFFC-52749F68329C}|..\\class7th(Type Conversion)\\class7th(Type Conversion).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class7th(Type Conversion)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C2B2EB-7A19-4432-BCE4-E44CEBDAFDA7}|..\\class6th ( Iteration \u0026 Statements)\\class6th ( Iteration \u0026 Statements).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABC2C60-6FA1-4DC0-93BD-95E8191C5925}|..\\class4th(overflow \u0026 underflow)\\class4th(overflow \u0026 underflow).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class4th(overflow \u0026 underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{827AD108-EE8F-4639-9BCA-9DD8D3A0E621}|..\\class2th(Variable \u0026 Constant)\\class2th(Variable \u0026 Constant).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class2th(Variable \u0026 Constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -40,20 +43,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c",
-              "RelativeDocumentMoniker": "..\\class6th ( Iteration \u0026 Statements)\\source.c",
-              "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c",
-              "RelativeToolTip": "..\\class6th ( Iteration \u0026 Statements)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class7th(Type Conversion)\\source.c",
+              "RelativeDocumentMoniker": "..\\class7th(Type Conversion)\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class7th(Type Conversion)\\source.c",
+              "RelativeToolTip": "..\\class7th(Type Conversion)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-19T11:22:14.931Z",
+              "WhenOpened": "2025-12-22T11:04:38.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class4th(overflow \u0026 underflow)\\source.c",
               "RelativeDocumentMoniker": "..\\class4th(overflow \u0026 underflow)\\source.c",
@@ -61,8 +64,7 @@
               "RelativeToolTip": "..\\class4th(overflow \u0026 underflow)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-18T13:57:35.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:57:35.842Z"
             },
             {
               "$type": "Document",
@@ -85,14 +87,27 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\Project1\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-18T13:36:16.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c",
+              "RelativeDocumentMoniker": "..\\class6th ( Iteration \u0026 Statements)\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c",
+              "RelativeToolTip": "..\\class6th ( Iteration \u0026 Statements)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-19T11:22:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class5th (ConDitional statement)\\source.c",
               "RelativeDocumentMoniker": "..\\class5th (ConDitional statement)\\source.c",
@@ -100,12 +115,11 @@
               "RelativeToolTip": "..\\class5th (ConDitional statement)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-18T14:12:31.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T14:12:31.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class2th(Variable \u0026 Constant)\\source.c",
               "RelativeDocumentMoniker": "..\\class2th(Variable \u0026 Constant)\\source.c",
@@ -113,12 +127,11 @@
               "RelativeToolTip": "..\\class2th(Variable \u0026 Constant)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-18T13:47:54.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:47:54.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c",
               "RelativeDocumentMoniker": "..\\class1th(compiler)\\source.c",
@@ -126,8 +139,7 @@
               "RelativeToolTip": "..\\class1th(compiler)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-18T13:43:55.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:43:55.954Z"
             }
           ]
         }
