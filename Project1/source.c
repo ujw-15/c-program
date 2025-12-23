@@ -36,26 +36,95 @@ void main()
 #pragma endregion
 
 #pragma region 포인터
-	// 메모리의 주소 값을 저장할 수 있는 변수입니다.
+//	// 메모리의 주소 값을 저장할 수 있는 변수입니다.
+//
+//	int storage = 10;
+//
+//	int *ptr = &storage;
+//
+//	int room = 20;
+//	// 포인터가 가리키는 메모리 공간의 자료형은 알 수 없으므로,
+//	// 포인터가 가리키는 메모리의 자료형을 선언해주어야 합니다.
+//
+//	printf("storage의 주소 : %p\n", &storage);
+//	printf("ptr의 값 : %p\n", ptr);
+//	printf("ptr의 주소 : %p\n\n", &ptr);
+//
+//	*ptr = 99;
+//
+//	printf("storage의 값 : %d\n", storage);
+//	printf("ptr변수가 가리키는 값 : %d\n\n", *ptr);
+//
+//	ptr = &room;
+//
+//	printf("ptr의 값 : %p\n", ptr);
+//	printf("ptr변수가 가리키는 값 : %d\n\n", *ptr);
+//
+//	// 포인터 변수도 자신의 메모리 공간을 가지고 있으며, 포인터 변수에
+//	// 변수의 주소를 저장하게 되면 해당 변수의 시작 주소를 가리킵니다.
+//
+//	printf("int의 크기 : %u\n", sizeof(int));
+//	printf("ptr 변수의 크기 : %u\n", sizeof(ptr));
+//
+//	// 포인터 변수의 크기는 중앙 처리 장치가 한 번에 처리할 수 있는
+//	// 크기로 정해지며, 한 번에 처리할 수 있는 크기는 운영체제에 따라 크기가 결정됩니다.
+#pragma endregion
 
-	int storage = 10;
+#pragma region  범용 포인터
+//	// 자료형이 정해지지 않은 상태로 모든 자료형을
+//	// 저장할 수 있는 포인터입니다.
+//
+//	char a1 = 'A';
+//	int ten = 10;
+//	float room = 35.75f;
+//
+//	void *reference = NULL;
+//
+//	reference = &a1;
+//
+//	// 범용 포인터는 메모리 주소에 접근해서 값을
+//	// 변경할 수 없습니다.
+//
+//	*(char*)reference = 'B';
+//
+//	printf("a1 변수의 값 : %c\n", a1);
+//	printf("reference 변수의 값 : %p\n\n", reference);
+//
+//	reference = &ten;
+//
+//	*(int*)reference = 20;
+//
+//	printf("ten 변수의 값 : %d\n", ten);
+//	printf("reference 변수의 값 : %p\n\n", reference);
+//
+//	
+//	reference = &room;
+//
+//	*(float*)reference = 8.125f;
+//
+//	printf("room 변수의 값 : %f\n", room);
+//	printf("reference 변수의 값 : %p\n\n", reference);
+//
+//	// 범용 포인터로 변수의 메모리에 접근하려면 범용 포인터가
+//	// 가리키는 변수의 자료형으로 변환해주어야 합니다.
+//
+#pragma endregion
 
-	int *ptr = &storage;
+#pragma region 상수 지시 포인터
+// 포인터가 가리키는 주소에 저장되어 있는 값을 변경할 수 없도록
+// 지정되어 있는 포인터입니다.
 
-	int room = 20;
-	// 포인터가 가리키는 메모리 공간의 자료형은 알 수 없으므로,
-	// 포인터가 가리키는 메모리의 자료형을 선언해주어야 합니다.
 
-	printf("storage의 주소 : %p\n", &storage);
-	printf("ptr의 값 : %p\n", ptr);
-	printf("ptr의 주소 : %p\n", &ptr);
+int z = 20;
+int y = 10;
 
-	*ptr = room;
+const int* fixefPointer = &y;
 
-	printf("storage의 값 : %d\n", storage);
-	printf("ptr변수가 가리키는 값 : %d\n", *ptr);
+printf("%d\n", fixefPointer);
 
 #pragma endregion
+
+
 
 
 }
