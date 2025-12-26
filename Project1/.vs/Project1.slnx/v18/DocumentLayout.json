@@ -7,19 +7,22 @@
       "RelativeMoniker": "D:0:0:{9CF129B8-9118-4737-915A-2EC46F515ECF}|Project1.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BABD01C-965E-4570-AFFC-52749F68329C}|..\\class7th(Type Conversion)\\class7th(Type Conversion).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class7th(Type Conversion)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA3871E-B376-48A1-AF47-C6D70B6161D3}|..\\class8th (Pointer)\\class8th (Pointer).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class8th (Pointer)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F166A1A-E468-417A-AC3E-D2327853F940}|..\\class1th(compiler)\\class1th(compiler).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BABD01C-965E-4570-AFFC-52749F68329C}|..\\class7th(Type Conversion)\\class7th(Type Conversion).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class7th(Type Conversion)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A87C33F7-162E-4AD6-9E9F-158234DC963E}|..\\class3th (\uBE44\uD2B8)\\class3th (\uBE44\uD2B8).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class3th (\uBE44\uD2B8)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ABC2C60-6FA1-4DC0-93BD-95E8191C5925}|..\\class4th(overflow \u0026 underflow)\\class4th(overflow \u0026 underflow).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class4th(overflow \u0026 underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F166A1A-E468-417A-AC3E-D2327853F940}|..\\class1th(compiler)\\class1th(compiler).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C2B2EB-7A19-4432-BCE4-E44CEBDAFDA7}|..\\class6th ( Iteration \u0026 Statements)\\class6th ( Iteration \u0026 Statements).vcxproj|C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -38,11 +41,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAHgCAAAAAAAAAAAmwIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T11:19:29.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class7th(Type Conversion)\\source.c",
               "RelativeDocumentMoniker": "..\\class7th(Type Conversion)\\source.c",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class4th(overflow \u0026 underflow)\\source.c",
               "RelativeDocumentMoniker": "..\\class4th(overflow \u0026 underflow)\\source.c",
@@ -85,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class3th (\uBE44\uD2B8)\\source.c",
               "RelativeDocumentMoniker": "..\\class3th (\uBE44\uD2B8)\\source.c",
@@ -104,14 +120,14 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\Project1\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAHIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-18T13:36:16.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class1th(compiler)\\source.c",
               "RelativeDocumentMoniker": "..\\class1th(compiler)\\source.c",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class6th ( Iteration \u0026 Statements)\\source.c",
               "RelativeDocumentMoniker": "..\\class6th ( Iteration \u0026 Statements)\\source.c",
@@ -137,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class5th (ConDitional statement)\\source.c",
               "RelativeDocumentMoniker": "..\\class5th (ConDitional statement)\\source.c",
@@ -150,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Documents\\GitHub\\c-program\\class2th(Variable \u0026 Constant)\\source.c",
               "RelativeDocumentMoniker": "..\\class2th(Variable \u0026 Constant)\\source.c",
