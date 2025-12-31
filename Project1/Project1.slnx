@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../class10th (function)/class10th (function).vcxproj" Id="ea61bf6c-ffe2-416b-bc7d-b9d655968749" />
   <Project Path="../class1th(compiler)/class1th(compiler).vcxproj" Id="5f166a1a-e468-417a-ac3e-d2327853f940" />
   <Project Path="../class2th(Variable &amp; Constant)/class2th(Variable &amp; Constant).vcxproj" Id="827ad108-ee8f-4639-9bca-9dd8d3a0e621" />
   <Project Path="../class3th (비트)/class3th (비트).vcxproj" Id="a87c33f7-162e-4ad6-9e9f-158234dc963e" />
