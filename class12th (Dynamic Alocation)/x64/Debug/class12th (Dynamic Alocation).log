@@ -1,0 +1,6 @@
+﻿  source.c
+C:\Users\ujw12\Documents\GitHub\c-program\class12th (Dynamic Alocation)\source.c(25,12): error C2374: 'p': 재정의. 여러 번 초기화했습니다.
+      C:\Users\ujw12\Documents\GitHub\c-program\class12th (Dynamic Alocation)\source.c(10,7):
+      'p' 선언을 참조하십시오.
+  
+C:\Users\ujw12\Documents\GitHub\c-program\class12th (Dynamic Alocation)\source.c(32,10): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
